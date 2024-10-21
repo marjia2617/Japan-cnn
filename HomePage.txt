@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en-us">
+   <head>
+       <title>Japan Travel Guide</title>
+	   <link rel ="icon" href = "favicon2.ico">
+	   <meta charset="UTF-8">
+	   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	   
+	<style>
+	
+	  body {
+	      margin: 180px;
+		  background-color: MistyRose;
+	   }
+	   
+	  div {
+	    width: 33%;
+        display: flex;
+		float: left;
+		
+       }	  
+
+
+    </style>	
+
+   </head>
+   
+   <body>
+   
+      <img src = "japan.jpg" alt="japan pic">
+      <h1 style="font-size: 80px">Destination Japan</h1>
+	  <p style="font-size: 30px">It's easy to be swept up by the idea of two opposing Japans. One, a hyperfuturistic vision of neon and next-gen tech. The other, a place of deeply held traditions from Shinto to samurai. In reality, these two worlds happily co-exist. Tokyo's seemingly never-ending sprawl is a marvel, the ultimate city in which to get lost and enjoy local hospitality in izakayas, before quiet contemplation in hidden temples. Kyoto wears its ancient history with pride, but still finds room for boutique capsule hotels and pachinko parlors. Away from the urban sprawl, onsen baths, soaring mountains and remote beaches make Japan a surprising contender as a destination for a break from the pressures of modern life.</p>
+	  
+	  <p style="font-size: 20px"> If you want to know more about Japan, Click the links below</p>
+	  
+	  <div>
+	  <a href="page1.html" target="_blank" title="Hokkaido" style= " text-decoration: none; font-size: 25px">
+	  <ul>
+	  <li>Snowy Japanese Island
+	  <ul>
+	    <li><a href="page1.html#a1" style="text-decoration: none">Cooking the Forest</a></li>
+	    <li><a href="page1.html#a2" style="text-decoration: none">The Ocean's winter bounty</a></li>
+	  </ul>
+	  </li>
+	  </ul>
+	  </a>
+	  </div>
+	  
+	  <div>
+	  <a href="page2.html" target="_blank" title="Tomonoura" style= " text-decoration: none; font-size: 25px">
+	  
+	  <ul>
+	    <li>Tomonoura
+	     <ul>
+	       <li><a href="page2.html#a1" style="text-decoration: none">The port that waits for the tide</a></li>
+		   <li><a href="page2.html#a2" style="text-decoration: none">A trip through town</a></li>
+		   <li><a href="page2.html#a3" style="text-decoration: none">The home of hemeishu</a></li>
+		   <li><a href="page2.html#a4" style="text-decoration: none">Nearby excursions</a></li>
+	     </ul>
+	    </li>
+	  </ul>
+	  </a>
+	  </div>
+	  
+	  <div>
+	  <a href="page3.html" target="_blank" title="Hokuriku" style= " text-decoration: none; font-size: 25px">
+	  
+	  <ul>
+	    <li>Hokuriku
+		  <ul>
+		    <li><a href ="page3.html#a1" style="text-decoration: none">To Nagano and beyond</a></li>
+			<li><a href ="page3.html#a2" style="text-decoration: none">Hokuriku's hot spring villages</a></li>
+			<li><a href ="page3.html#a3" style="text-decoration: none">Dinos, a techno Buddist temple and king crab</a></li>
+			<li><a href ="page3.html#a4" style="text-decoration: none">Explore outside Tokyo, Osaka and Kyoto</a></li>
+		  </ul>
+		</li>
+		</ul>
+	  </a>
+	  </div>
+	  
+	  <div>
+	  <a href="page4.html" target="_blank" title="shimane" style="text-decoration: none; font-size: 25px">
+	  <ul>
+	    <li>Shimane
+		   <ul>
+		     <li><a href="page4.html#a1" style="text-decoration: none">A sense of place</a></li>
+			 <li><a href="page4.html#a2" style="text-decoration: none">Making the journey</a></li>
+		   </ul>
+		</li>
+	  </ul>
+	  </a>
+	  </div> 
+	  
+	<div>
+	  <a href="page5.html" target="_blank" title="Kyoto" style= " text-decoration: none;    font-size: 25px">
+	  <ul>
+	    <li>Sagano Bamboo Forest
+	   <ul>
+	      <li><a href="page5.html#a1" style="text-decoration: none">A ‘major’ temple and a film star’s former home</a></li>
+	      <li><a href="page5.html#a2" style="text-decoration: none">Exploring Arashiyama</a></li>
+		  <li><a href="page5.html#a3" style="text-decoration: none">Arashiyama sidetracks</a></li>
+		  <li><a href="page5.html#a4" style="text-decoration: none">Where to eat and where to stay</a></li>
+		  
+	   </ul>
+	    </li>
+	   </ul>
+	  </a>
+	</div>
+	 
+   
+   </body>
+</html>
